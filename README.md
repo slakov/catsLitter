@@ -1,1 +1,3 @@
 # catsLitter
+
+just learning cats
